@@ -1,0 +1,6 @@
+kalibr/aslam_offline_calibration/ethz_apriltag2
+/kalibr_ws/devel/.private/ethz_apriltag2/share/ethz_apriltag2/cmake/ethz_apriltag2Config-version.cmake /kalibr_ws/devel/share/ethz_apriltag2/cmake/ethz_apriltag2Config-version.cmake
+/kalibr_ws/devel/.private/ethz_apriltag2/share/ethz_apriltag2/cmake/ethz_apriltag2Config.cmake /kalibr_ws/devel/share/ethz_apriltag2/cmake/ethz_apriltag2Config.cmake
+/kalibr_ws/devel/.private/ethz_apriltag2/lib/libethz_apriltag2.so /kalibr_ws/devel/lib/libethz_apriltag2.so
+/kalibr_ws/devel/.private/ethz_apriltag2/lib/ethz_apriltag2/apriltags_demo /kalibr_ws/devel/lib/ethz_apriltag2/apriltags_demo
+/kalibr_ws/devel/.private/ethz_apriltag2/lib/pkgconfig/ethz_apriltag2.pc /kalibr_ws/devel/lib/pkgconfig/ethz_apriltag2.pc

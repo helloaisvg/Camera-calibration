@@ -1,0 +1,21 @@
+kalibr/aslam_offline_calibration/kalibr
+/kalibr_ws/devel/.private/kalibr/share/kalibr/cmake/kalibrConfig.cmake /kalibr_ws/devel/share/kalibr/cmake/kalibrConfig.cmake
+/kalibr_ws/devel/.private/kalibr/share/kalibr/cmake/kalibrConfig-version.cmake /kalibr_ws/devel/share/kalibr/cmake/kalibrConfig-version.cmake
+/kalibr_ws/devel/.private/kalibr/lib/libkalibr_errorterms_python.so /kalibr_ws/devel/lib/libkalibr_errorterms_python.so
+/kalibr_ws/devel/.private/kalibr/lib/libkalibr_errorterms.so /kalibr_ws/devel/lib/libkalibr_errorterms.so
+/kalibr_ws/devel/.private/kalibr/lib/python3/dist-packages/libkalibr_errorterms_python.so /kalibr_ws/devel/lib/python3/dist-packages/libkalibr_errorterms_python.so
+/kalibr_ws/devel/.private/kalibr/lib/python3/dist-packages/kalibr_common/__init__.py /kalibr_ws/devel/lib/python3/dist-packages/kalibr_common/__init__.py
+/kalibr_ws/devel/.private/kalibr/lib/python3/dist-packages/kalibr_errorterms/__init__.py /kalibr_ws/devel/lib/python3/dist-packages/kalibr_errorterms/__init__.py
+/kalibr_ws/devel/.private/kalibr/lib/python3/dist-packages/kalibr_imu_camera_calibration/__init__.py /kalibr_ws/devel/lib/python3/dist-packages/kalibr_imu_camera_calibration/__init__.py
+/kalibr_ws/devel/.private/kalibr/lib/python3/dist-packages/kalibr_camera_calibration/__init__.py /kalibr_ws/devel/lib/python3/dist-packages/kalibr_camera_calibration/__init__.py
+/kalibr_ws/devel/.private/kalibr/lib/pkgconfig/kalibr.pc /kalibr_ws/devel/lib/pkgconfig/kalibr.pc
+/kalibr_ws/devel/.private/kalibr/lib/kalibr/kalibr_bagextractor /kalibr_ws/devel/lib/kalibr/kalibr_bagextractor
+/kalibr_ws/devel/.private/kalibr/lib/kalibr/kalibr_calibrate_cameras /kalibr_ws/devel/lib/kalibr/kalibr_calibrate_cameras
+/kalibr_ws/devel/.private/kalibr/lib/kalibr/kalibr_camera_validator /kalibr_ws/devel/lib/kalibr/kalibr_camera_validator
+/kalibr_ws/devel/.private/kalibr/lib/kalibr/kalibr_camera_focus /kalibr_ws/devel/lib/kalibr/kalibr_camera_focus
+/kalibr_ws/devel/.private/kalibr/lib/kalibr/kalibr_calibrate_rs_cameras /kalibr_ws/devel/lib/kalibr/kalibr_calibrate_rs_cameras
+/kalibr_ws/devel/.private/kalibr/lib/kalibr/kalibr_calibrate_imu_camera /kalibr_ws/devel/lib/kalibr/kalibr_calibrate_imu_camera
+/kalibr_ws/devel/.private/kalibr/lib/kalibr/kalibr_visualize_distortion /kalibr_ws/devel/lib/kalibr/kalibr_visualize_distortion
+/kalibr_ws/devel/.private/kalibr/lib/kalibr/kalibr_create_target_pdf /kalibr_ws/devel/lib/kalibr/kalibr_create_target_pdf
+/kalibr_ws/devel/.private/kalibr/lib/kalibr/kalibr_bagcreater /kalibr_ws/devel/lib/kalibr/kalibr_bagcreater
+/kalibr_ws/devel/.private/kalibr/lib/kalibr/kalibr_visualize_calibration /kalibr_ws/devel/lib/kalibr/kalibr_visualize_calibration

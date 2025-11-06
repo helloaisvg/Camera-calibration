@@ -1,0 +1,5 @@
+kalibr/aslam_nonparametric_estimation/bsplines
+/kalibr_ws/devel/.private/bsplines/share/bsplines/cmake/bsplinesConfig-version.cmake /kalibr_ws/devel/share/bsplines/cmake/bsplinesConfig-version.cmake
+/kalibr_ws/devel/.private/bsplines/share/bsplines/cmake/bsplinesConfig.cmake /kalibr_ws/devel/share/bsplines/cmake/bsplinesConfig.cmake
+/kalibr_ws/devel/.private/bsplines/lib/libbsplines.so /kalibr_ws/devel/lib/libbsplines.so
+/kalibr_ws/devel/.private/bsplines/lib/pkgconfig/bsplines.pc /kalibr_ws/devel/lib/pkgconfig/bsplines.pc

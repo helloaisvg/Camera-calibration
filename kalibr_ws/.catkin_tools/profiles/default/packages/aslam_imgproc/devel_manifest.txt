@@ -1,0 +1,5 @@
+kalibr/aslam_cv/aslam_imgproc
+/kalibr_ws/devel/.private/aslam_imgproc/share/aslam_imgproc/cmake/aslam_imgprocConfig.cmake /kalibr_ws/devel/share/aslam_imgproc/cmake/aslam_imgprocConfig.cmake
+/kalibr_ws/devel/.private/aslam_imgproc/share/aslam_imgproc/cmake/aslam_imgprocConfig-version.cmake /kalibr_ws/devel/share/aslam_imgproc/cmake/aslam_imgprocConfig-version.cmake
+/kalibr_ws/devel/.private/aslam_imgproc/lib/libaslam_imgproc.so /kalibr_ws/devel/lib/libaslam_imgproc.so
+/kalibr_ws/devel/.private/aslam_imgproc/lib/pkgconfig/aslam_imgproc.pc /kalibr_ws/devel/lib/pkgconfig/aslam_imgproc.pc

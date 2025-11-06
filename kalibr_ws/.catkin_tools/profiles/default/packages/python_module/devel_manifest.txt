@@ -1,0 +1,4 @@
+kalibr/Schweizer-Messer/python_module
+/kalibr_ws/devel/.private/python_module/share/python_module/cmake/python_moduleConfig-version.cmake /kalibr_ws/devel/share/python_module/cmake/python_moduleConfig-version.cmake
+/kalibr_ws/devel/.private/python_module/share/python_module/cmake/python_moduleConfig.cmake /kalibr_ws/devel/share/python_module/cmake/python_moduleConfig.cmake
+/kalibr_ws/devel/.private/python_module/lib/pkgconfig/python_module.pc /kalibr_ws/devel/lib/pkgconfig/python_module.pc

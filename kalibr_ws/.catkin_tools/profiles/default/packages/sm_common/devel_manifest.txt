@@ -1,0 +1,5 @@
+kalibr/Schweizer-Messer/sm_common
+/kalibr_ws/devel/.private/sm_common/share/sm_common/cmake/sm_commonConfig.cmake /kalibr_ws/devel/share/sm_common/cmake/sm_commonConfig.cmake
+/kalibr_ws/devel/.private/sm_common/share/sm_common/cmake/sm_commonConfig-version.cmake /kalibr_ws/devel/share/sm_common/cmake/sm_commonConfig-version.cmake
+/kalibr_ws/devel/.private/sm_common/lib/libsm_common.so /kalibr_ws/devel/lib/libsm_common.so
+/kalibr_ws/devel/.private/sm_common/lib/pkgconfig/sm_common.pc /kalibr_ws/devel/lib/pkgconfig/sm_common.pc

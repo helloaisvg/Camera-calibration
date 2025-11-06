@@ -1,0 +1,7 @@
+kalibr/aslam_cv/aslam_cv_python
+/kalibr_ws/devel/.private/aslam_cv_python/share/aslam_cv_python/cmake/aslam_cv_pythonConfig.cmake /kalibr_ws/devel/share/aslam_cv_python/cmake/aslam_cv_pythonConfig.cmake
+/kalibr_ws/devel/.private/aslam_cv_python/share/aslam_cv_python/cmake/aslam_cv_pythonConfig-version.cmake /kalibr_ws/devel/share/aslam_cv_python/cmake/aslam_cv_pythonConfig-version.cmake
+/kalibr_ws/devel/.private/aslam_cv_python/lib/libaslam_cv_python.so /kalibr_ws/devel/lib/libaslam_cv_python.so
+/kalibr_ws/devel/.private/aslam_cv_python/lib/python3/dist-packages/aslam_cv/libaslam_cv_python.so /kalibr_ws/devel/lib/python3/dist-packages/aslam_cv/libaslam_cv_python.so
+/kalibr_ws/devel/.private/aslam_cv_python/lib/python3/dist-packages/aslam_cv/__init__.py /kalibr_ws/devel/lib/python3/dist-packages/aslam_cv/__init__.py
+/kalibr_ws/devel/.private/aslam_cv_python/lib/pkgconfig/aslam_cv_python.pc /kalibr_ws/devel/lib/pkgconfig/aslam_cv_python.pc

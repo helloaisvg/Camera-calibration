@@ -1,0 +1,5 @@
+kalibr/Schweizer-Messer/sm_boost
+/kalibr_ws/devel/.private/sm_boost/share/sm_boost/cmake/sm_boostConfig.cmake /kalibr_ws/devel/share/sm_boost/cmake/sm_boostConfig.cmake
+/kalibr_ws/devel/.private/sm_boost/share/sm_boost/cmake/sm_boostConfig-version.cmake /kalibr_ws/devel/share/sm_boost/cmake/sm_boostConfig-version.cmake
+/kalibr_ws/devel/.private/sm_boost/lib/libsm_boost.so /kalibr_ws/devel/lib/libsm_boost.so
+/kalibr_ws/devel/.private/sm_boost/lib/pkgconfig/sm_boost.pc /kalibr_ws/devel/lib/pkgconfig/sm_boost.pc

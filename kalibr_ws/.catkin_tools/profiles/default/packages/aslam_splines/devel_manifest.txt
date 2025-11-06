@@ -1,0 +1,5 @@
+kalibr/aslam_nonparametric_estimation/aslam_splines
+/kalibr_ws/devel/.private/aslam_splines/share/aslam_splines/cmake/aslam_splinesConfig.cmake /kalibr_ws/devel/share/aslam_splines/cmake/aslam_splinesConfig.cmake
+/kalibr_ws/devel/.private/aslam_splines/share/aslam_splines/cmake/aslam_splinesConfig-version.cmake /kalibr_ws/devel/share/aslam_splines/cmake/aslam_splinesConfig-version.cmake
+/kalibr_ws/devel/.private/aslam_splines/lib/libaslam_splines.so /kalibr_ws/devel/lib/libaslam_splines.so
+/kalibr_ws/devel/.private/aslam_splines/lib/pkgconfig/aslam_splines.pc /kalibr_ws/devel/lib/pkgconfig/aslam_splines.pc

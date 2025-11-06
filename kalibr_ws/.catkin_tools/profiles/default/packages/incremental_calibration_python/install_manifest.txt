@@ -1,0 +1,17 @@
+/kalibr_ws/install/_setup_util.py
+/kalibr_ws/install/env.sh
+/kalibr_ws/install/setup.bash
+/kalibr_ws/install/local_setup.bash
+/kalibr_ws/install/setup.sh
+/kalibr_ws/install/local_setup.sh
+/kalibr_ws/install/setup.zsh
+/kalibr_ws/install/local_setup.zsh
+/kalibr_ws/install/setup.fish
+/kalibr_ws/install/local_setup.fish
+/kalibr_ws/install/.rosinstall
+/kalibr_ws/install/lib/pkgconfig/incremental_calibration_python.pc
+/kalibr_ws/install/share/incremental_calibration_python/cmake/incremental_calibration_pythonConfig.cmake
+/kalibr_ws/install/share/incremental_calibration_python/cmake/incremental_calibration_pythonConfig-version.cmake
+/kalibr_ws/install/share/incremental_calibration_python/package.xml
+/kalibr_ws/install/lib/python3/dist-packages/incremental_calibration_python/libincremental_calibration_python.so
+/kalibr_ws/install/include/module.cpp

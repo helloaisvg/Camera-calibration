@@ -1,0 +1,16 @@
+/kalibr_ws/install/_setup_util.py
+/kalibr_ws/install/env.sh
+/kalibr_ws/install/setup.bash
+/kalibr_ws/install/local_setup.bash
+/kalibr_ws/install/setup.sh
+/kalibr_ws/install/local_setup.sh
+/kalibr_ws/install/setup.zsh
+/kalibr_ws/install/local_setup.zsh
+/kalibr_ws/install/setup.fish
+/kalibr_ws/install/local_setup.fish
+/kalibr_ws/install/.rosinstall
+/kalibr_ws/install/lib/pkgconfig/python_module.pc
+/kalibr_ws/install/share/python_module/cmake/add_python_export_library.cmake
+/kalibr_ws/install/share/python_module/cmake/python_moduleConfig.cmake
+/kalibr_ws/install/share/python_module/cmake/python_moduleConfig-version.cmake
+/kalibr_ws/install/share/python_module/package.xml

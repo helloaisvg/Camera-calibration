@@ -1,0 +1,10 @@
+kalibr/Schweizer-Messer/numpy_eigen
+/kalibr_ws/devel/.private/numpy_eigen/share/numpy_eigen/cmake/numpy_eigenConfig-version.cmake /kalibr_ws/devel/share/numpy_eigen/cmake/numpy_eigenConfig-version.cmake
+/kalibr_ws/devel/.private/numpy_eigen/share/numpy_eigen/cmake/numpy_eigenConfig.cmake /kalibr_ws/devel/share/numpy_eigen/cmake/numpy_eigenConfig.cmake
+/kalibr_ws/devel/.private/numpy_eigen/share/numpy_eigen/cmake/numpy_eigen-extras.cmake /kalibr_ws/devel/share/numpy_eigen/cmake/numpy_eigen-extras.cmake
+/kalibr_ws/devel/.private/numpy_eigen/lib/libnumpy_eigen_test.so /kalibr_ws/devel/lib/libnumpy_eigen_test.so
+/kalibr_ws/devel/.private/numpy_eigen/lib/libnumpy_eigen.so /kalibr_ws/devel/lib/libnumpy_eigen.so
+/kalibr_ws/devel/.private/numpy_eigen/lib/python3/dist-packages/numpy_eigen/__init__.py /kalibr_ws/devel/lib/python3/dist-packages/numpy_eigen/__init__.py
+/kalibr_ws/devel/.private/numpy_eigen/lib/python3/dist-packages/numpy_eigen/libnumpy_eigen_test.so /kalibr_ws/devel/lib/python3/dist-packages/numpy_eigen/libnumpy_eigen_test.so
+/kalibr_ws/devel/.private/numpy_eigen/lib/python3/dist-packages/numpy_eigen/libnumpy_eigen.so /kalibr_ws/devel/lib/python3/dist-packages/numpy_eigen/libnumpy_eigen.so
+/kalibr_ws/devel/.private/numpy_eigen/lib/pkgconfig/numpy_eigen.pc /kalibr_ws/devel/lib/pkgconfig/numpy_eigen.pc

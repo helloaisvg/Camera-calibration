@@ -1,0 +1,5 @@
+kalibr/Schweizer-Messer/sm_logging
+/kalibr_ws/devel/.private/sm_logging/share/sm_logging/cmake/sm_loggingConfig.cmake /kalibr_ws/devel/share/sm_logging/cmake/sm_loggingConfig.cmake
+/kalibr_ws/devel/.private/sm_logging/share/sm_logging/cmake/sm_loggingConfig-version.cmake /kalibr_ws/devel/share/sm_logging/cmake/sm_loggingConfig-version.cmake
+/kalibr_ws/devel/.private/sm_logging/lib/libsm_logging.so /kalibr_ws/devel/lib/libsm_logging.so
+/kalibr_ws/devel/.private/sm_logging/lib/pkgconfig/sm_logging.pc /kalibr_ws/devel/lib/pkgconfig/sm_logging.pc

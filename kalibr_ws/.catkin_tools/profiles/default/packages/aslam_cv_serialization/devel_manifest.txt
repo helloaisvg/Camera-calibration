@@ -1,0 +1,5 @@
+kalibr/aslam_cv/aslam_cv_serialization
+/kalibr_ws/devel/.private/aslam_cv_serialization/share/aslam_cv_serialization/cmake/aslam_cv_serializationConfig-version.cmake /kalibr_ws/devel/share/aslam_cv_serialization/cmake/aslam_cv_serializationConfig-version.cmake
+/kalibr_ws/devel/.private/aslam_cv_serialization/share/aslam_cv_serialization/cmake/aslam_cv_serializationConfig.cmake /kalibr_ws/devel/share/aslam_cv_serialization/cmake/aslam_cv_serializationConfig.cmake
+/kalibr_ws/devel/.private/aslam_cv_serialization/lib/libaslam_cv_serialization.so /kalibr_ws/devel/lib/libaslam_cv_serialization.so
+/kalibr_ws/devel/.private/aslam_cv_serialization/lib/pkgconfig/aslam_cv_serialization.pc /kalibr_ws/devel/lib/pkgconfig/aslam_cv_serialization.pc

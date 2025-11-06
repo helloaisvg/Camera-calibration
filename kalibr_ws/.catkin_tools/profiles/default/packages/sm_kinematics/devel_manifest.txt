@@ -1,0 +1,5 @@
+kalibr/Schweizer-Messer/sm_kinematics
+/kalibr_ws/devel/.private/sm_kinematics/share/sm_kinematics/cmake/sm_kinematicsConfig.cmake /kalibr_ws/devel/share/sm_kinematics/cmake/sm_kinematicsConfig.cmake
+/kalibr_ws/devel/.private/sm_kinematics/share/sm_kinematics/cmake/sm_kinematicsConfig-version.cmake /kalibr_ws/devel/share/sm_kinematics/cmake/sm_kinematicsConfig-version.cmake
+/kalibr_ws/devel/.private/sm_kinematics/lib/libsm_kinematics.so /kalibr_ws/devel/lib/libsm_kinematics.so
+/kalibr_ws/devel/.private/sm_kinematics/lib/pkgconfig/sm_kinematics.pc /kalibr_ws/devel/lib/pkgconfig/sm_kinematics.pc

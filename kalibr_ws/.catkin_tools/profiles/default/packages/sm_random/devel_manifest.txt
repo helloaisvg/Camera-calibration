@@ -1,0 +1,5 @@
+kalibr/Schweizer-Messer/sm_random
+/kalibr_ws/devel/.private/sm_random/share/sm_random/cmake/sm_randomConfig.cmake /kalibr_ws/devel/share/sm_random/cmake/sm_randomConfig.cmake
+/kalibr_ws/devel/.private/sm_random/share/sm_random/cmake/sm_randomConfig-version.cmake /kalibr_ws/devel/share/sm_random/cmake/sm_randomConfig-version.cmake
+/kalibr_ws/devel/.private/sm_random/lib/libsm_random.so /kalibr_ws/devel/lib/libsm_random.so
+/kalibr_ws/devel/.private/sm_random/lib/pkgconfig/sm_random.pc /kalibr_ws/devel/lib/pkgconfig/sm_random.pc

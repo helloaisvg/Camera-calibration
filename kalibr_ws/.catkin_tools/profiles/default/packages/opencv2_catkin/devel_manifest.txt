@@ -1,0 +1,5 @@
+kalibr/opencv2_catkin
+/kalibr_ws/devel/.private/opencv2_catkin/share/opencv2_catkin/cmake/opencv2_catkinConfig-version.cmake /kalibr_ws/devel/share/opencv2_catkin/cmake/opencv2_catkinConfig-version.cmake
+/kalibr_ws/devel/.private/opencv2_catkin/share/opencv2_catkin/cmake/opencv2_catkinConfig.cmake /kalibr_ws/devel/share/opencv2_catkin/cmake/opencv2_catkinConfig.cmake
+/kalibr_ws/devel/.private/opencv2_catkin/share/opencv2_catkin/cmake/opencv2-extras.cmake /kalibr_ws/devel/share/opencv2_catkin/cmake/opencv2-extras.cmake
+/kalibr_ws/devel/.private/opencv2_catkin/lib/pkgconfig/opencv2_catkin.pc /kalibr_ws/devel/lib/pkgconfig/opencv2_catkin.pc

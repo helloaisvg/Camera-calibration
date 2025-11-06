@@ -1,0 +1,5 @@
+kalibr/aslam_cv/aslam_cameras
+/kalibr_ws/devel/.private/aslam_cameras/share/aslam_cameras/cmake/aslam_camerasConfig-version.cmake /kalibr_ws/devel/share/aslam_cameras/cmake/aslam_camerasConfig-version.cmake
+/kalibr_ws/devel/.private/aslam_cameras/share/aslam_cameras/cmake/aslam_camerasConfig.cmake /kalibr_ws/devel/share/aslam_cameras/cmake/aslam_camerasConfig.cmake
+/kalibr_ws/devel/.private/aslam_cameras/lib/libaslam_cameras.so /kalibr_ws/devel/lib/libaslam_cameras.so
+/kalibr_ws/devel/.private/aslam_cameras/lib/pkgconfig/aslam_cameras.pc /kalibr_ws/devel/lib/pkgconfig/aslam_cameras.pc

@@ -1,0 +1,6 @@
+kalibr/aslam_optimizer/sparse_block_matrix
+/kalibr_ws/devel/.private/sparse_block_matrix/share/sparse_block_matrix/cmake/sparse_block_matrixConfig.cmake /kalibr_ws/devel/share/sparse_block_matrix/cmake/sparse_block_matrixConfig.cmake
+/kalibr_ws/devel/.private/sparse_block_matrix/share/sparse_block_matrix/cmake/sparse_block_matrixConfig-version.cmake /kalibr_ws/devel/share/sparse_block_matrix/cmake/sparse_block_matrixConfig-version.cmake
+/kalibr_ws/devel/.private/sparse_block_matrix/share/sparse_block_matrix/cmake/sparse_block_matrix-extras.cmake /kalibr_ws/devel/share/sparse_block_matrix/cmake/sparse_block_matrix-extras.cmake
+/kalibr_ws/devel/.private/sparse_block_matrix/lib/libsparse_block_matrix.so /kalibr_ws/devel/lib/libsparse_block_matrix.so
+/kalibr_ws/devel/.private/sparse_block_matrix/lib/pkgconfig/sparse_block_matrix.pc /kalibr_ws/devel/lib/pkgconfig/sparse_block_matrix.pc

@@ -1,0 +1,5 @@
+kalibr/Schweizer-Messer/sm_matrix_archive
+/kalibr_ws/devel/.private/sm_matrix_archive/share/sm_matrix_archive/cmake/sm_matrix_archiveConfig-version.cmake /kalibr_ws/devel/share/sm_matrix_archive/cmake/sm_matrix_archiveConfig-version.cmake
+/kalibr_ws/devel/.private/sm_matrix_archive/share/sm_matrix_archive/cmake/sm_matrix_archiveConfig.cmake /kalibr_ws/devel/share/sm_matrix_archive/cmake/sm_matrix_archiveConfig.cmake
+/kalibr_ws/devel/.private/sm_matrix_archive/lib/libsm_matrix_archive.so /kalibr_ws/devel/lib/libsm_matrix_archive.so
+/kalibr_ws/devel/.private/sm_matrix_archive/lib/pkgconfig/sm_matrix_archive.pc /kalibr_ws/devel/lib/pkgconfig/sm_matrix_archive.pc
